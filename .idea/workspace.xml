@@ -1,80 +1,514 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b7187ec-2731-4763-9024-96d0a4b957ed" name="Default" comment="" />
+    <list default="true" id="4b7187ec-2731-4763-9024-96d0a4b957ed" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/res/qwer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pywin32-224-cp37-cp37m-win32.whl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logging.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro_script/wechat_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro_script/wechat_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro_script/wechat_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro_script/wechat_photo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro_script/wechat_sign.py" beforeDir="false" afterPath="$PROJECT_DIR$/pro_script/wechat_sign.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/173.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/176.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/178.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/184.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/186.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/192.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/193.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/194.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/195.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/196.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/204.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/215.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/216.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/220.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/224.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/227.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/228.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/230.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/233.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/236.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/242.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/245.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/246.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/247.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/251.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/252.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/253.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/254.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/255.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/258.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/260.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/photos/260.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/261.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/photos/261.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/262.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/263.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/264.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/265.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/266.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/268.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/274.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/275.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/276.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/277.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/279.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/287.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/290.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/291.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/294.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/298.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/299.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/301.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/303.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/305.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/307.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/308.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/312.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/313.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/315.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/316.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/318.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/319.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/321.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/322.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/323.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/325.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/326.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/328.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/329.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/330.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/334.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/335.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/336.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/337.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/338.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/339.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/341.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/342.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/347.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/348.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/349.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/353.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/355.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/356.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/359.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/360.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/361.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/362.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/363.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/364.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/365.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/367.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/368.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/370.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/371.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/372.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/373.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/374.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/376.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/377.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/378.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/379.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/380.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/381.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/382.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/383.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/384.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/385.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/386.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/387.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/388.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/389.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/390.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/391.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/394.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/395.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/396.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/397.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/398.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/399.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/401.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/403.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/405.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/406.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/409.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/411.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/414.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/415.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/416.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/420.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/79.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/photos/79.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/photos/99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/好友个性签名词云图.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/好友个性签名词云图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/好友头像拼接图.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/好友签名情感分析.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/好友签名情感分析.png" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="18">
-                <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/wechat$wechat_login.coverage" NAME="wechat_login Coverage Results" MODIFIED="1561020050873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pro_script" />
+    <SUITE FILE_PATH="coverage/wechat$wechat_photo.coverage" NAME="wechat_photo Coverage Results" MODIFIED="1561081365686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pro_script" />
+    <SUITE FILE_PATH="coverage/wechat$wechat_sign.coverage" NAME="wechat_sign Coverage Results" MODIFIED="1564640644779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pro_script" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="FORCE_PUSH_ALLOWED" value="false" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1600" />
-    <option name="y" value="27" />
-    <option name="width" value="1580" />
-    <option name="height" value="840" />
+    <option name="x" value="-12" />
+    <option name="width" value="1932" />
+    <option name="height" value="1040" />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="wechat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wechat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wechat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wechat" type="462c0819:PsiDirectoryNode" />
-              <item name="pro_script" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1OoUVEMVFjuWQyRuBeMGVNy2xpt" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$USER_HOME$/gogs/dps/analy_crawler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\wechat\venv\Lib\site-packages" />
+      <recent name="D:\workspace\wechat\res\photos" />
+      <recent name="D:\workspace\wechat\res" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -88,8 +522,88 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="RunManager" selected="Python.wechat_sign">
+    <configuration name="wechat_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wechat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pro_script/wechat_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wechat_photo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wechat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pro_script/wechat_photo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wechat_sign" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wechat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pro_script" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pro_script/wechat_sign.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.wechat_login" />
+      <item itemvalue="Python.wechat_photo" />
+      <item itemvalue="Python.wechat_sign" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.wechat_sign" />
+        <item itemvalue="Python.wechat_photo" />
+        <item itemvalue="Python.wechat_login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -98,64 +612,123 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553076710987</updated>
+      <workItem from="1561019872512" duration="740000" />
+      <workItem from="1561020663485" duration="1861000" />
+      <workItem from="1561079138510" duration="14298000" />
+      <workItem from="1561110445214" duration="1858000" />
+      <workItem from="1564628212767" duration="8381000" />
+      <workItem from="1564643470210" duration="6161000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="1600" y="27" width="1600" height="840" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5611511" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25354838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pro_script/wechat_photo.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="18">
-            <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wechat$wechat_sign.coverage" NAME="wechat_sign Coverage Results" MODIFIED="1564649094956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pro_script" />
+    <SUITE FILE_PATH="coverage/wechat$wechat_photo.coverage" NAME="wechat_photo Coverage Results" MODIFIED="1564646704411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pro_script" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>wechat</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

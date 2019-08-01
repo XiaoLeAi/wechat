@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.4
+#!/usr/bin/env python2.7
 # encoding: utf-8
 """
 Created on 19-3-19
@@ -25,12 +25,13 @@ def photo_joint():
     itchat.dump_login_status()
     friends = itchat.get_friends(update=True)[0:]
     user = friends[0]["UserName"]
-
+    #
     num = 0
     pwd_path = os.path.abspath(os.path.dirname(os.getcwd()))
     desc_photos = os.path.join(pwd_path, 'res/photos')
     desc_full = os.path.join(pwd_path, 'res')
-
+    os.path.join(pwd_path,'res/photos')
+    #
     for i in friends:
         img = itchat.get_head_img(userName=i["UserName"])
         file_image = open(desc_photos + "/" + str(num) + ".jpg", 'wb')
@@ -45,10 +46,11 @@ def photo_joint():
     x = 0
     y = 0
 
-    for i in range(0, len(ls) + 1):
+    for i in range(0, len(ls)):
         try:
             img = Image.open(desc_photos + "/" + str(i) + ".jpg")
         except IOError:
+            print(str(i) + ".jpg")
             print("Error")
         else:
             img = img.resize((each_size, each_size), Image.ANTIALIAS)
@@ -58,8 +60,8 @@ def photo_joint():
                 x = 0
                 y += 1
 
-    image.save(desc_full + "/好友头像拼接图.jpg")
-    itchat.send_image(desc_full + "/好友头像拼接图.jpg", 'filehelper')     # 拼接完成发送给文件传输助手
+    image.save(desc_full + "\\qwer.png")
+    # itchat.send_image(desc_full + "/好友头像拼接图.jpg", 'filehelper')     # 拼接完成发送给文件传输助手
     logger.info('end %s ' % func_name)
 
 

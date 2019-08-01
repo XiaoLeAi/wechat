@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.4
+#!/usr/bin/env python3.7
 # encoding: utf-8
 """
 Created on 19-3-20
@@ -14,7 +14,6 @@ import numpy as np
 
 from config import logger_path
 from pro_script.wechat_login import wc_login
-from scipy.misc import imread
 from snownlp import SnowNLP
 from wordcloud import WordCloud, ImageColorGenerator
 
